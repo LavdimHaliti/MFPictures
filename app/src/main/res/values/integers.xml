@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <integer-array name="drawables">
+            <item>@drawable/car</item>
+            <item>@drawable/flower2</item>
+            <item>@drawable/mountain</item>
+            <item>@drawable/baby</item>
+            <item>@drawable/girl</item>
+            <item>@drawable/boy</item>
+            <item>@drawable/family</item>
+            <item>@drawable/forest</item>
+            <item>@drawable/sea</item>
+            <item>@drawable/village</item>
+            <item>@drawable/city</item>
+            <item>@drawable/boat</item>
+            <item>@drawable/love</item>
+            <item>@drawable/planet</item>
+            <item>@drawable/cake</item>
+            <item>@drawable/paris</item>
+            <item>@drawable/newyork</item>
+            <item>@drawable/london</item>
+            <item>@drawable/castle</item>
+            <item>@drawable/knight2</item>
+        </integer-array>
+</resources>

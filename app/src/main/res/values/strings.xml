@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MFPictures</string>
+    <string-array name="category_keys">
+        <item>car</item>
+        <item>flower</item>
+        <item>mountain</item>
+        <item>baby</item>
+        <item>girl</item>
+        <item>boy</item>
+        <item>family</item>
+        <item>forest</item>
+        <item>sea</item>
+        <item>village</item>
+        <item>city</item>
+        <item>boat</item>
+        <item>love</item>
+        <item>planet</item>
+        <item>dessert</item>
+        <item>paris</item>
+        <item>newyork</item>
+        <item>london</item>
+        <item>castle</item>
+        <item>knight</item>
+    </string-array>
+    <string-array name="picture_names">
+        <item>CAR PICTURES</item>
+        <item>FLOWER PICTURES</item>
+        <item>MOUNTAIN PICTURES</item>
+        <item>BABY PICTURES</item>
+        <item>GIRL PICTURES</item>
+        <item>BOY PICTURES</item>
+        <item>FAMILY PICTURES</item>
+        <item>FOREST PICTURES</item>
+        <item>SEA PICTURES</item>
+        <item>VILLAGE PICTURES</item>
+        <item>CITY PICTURES</item>
+        <item>BOAT PICTURES</item>
+        <item>LOVE PICTURES</item>
+        <item>PLANET PICTURES</item>
+        <item>DESSERT PICTURES</item>
+        <item>PARIS PICTURES</item>
+        <item>NEW YORK PICTURES</item>
+        <item>LONDON PICTURES</item>
+        <item>CASTLE PICTURES</item>
+        <item>KNIGHT PICTURES</item>
+    </string-array>
+</resources>
